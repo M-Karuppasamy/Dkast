@@ -1,0 +1,34 @@
+Your Path to Laravel Mastery Starts Here...
+
+A stream of endless knowledge.
+We're kinda like Netflix, but for developers! Push your programming skills to the next level, through expert screencasts on PHP, Laravel, Vue, and so much more.
+
+
+Load Balance a Laravel App
+
+Build a Forum With Laravel
+Building a forum is a great playground for getting acquainted with Laravel; there are so many little things to think about that really stretch the framework… and our minds! It's been a while since we built one on Laracasts, so join me as we create a feature rich forum together using the powerful ecosystem Laravel provides. Let's go!
+
+
+Rapid Laravel Apps With Filament
+In this Laracasts series, I will teach you how to rapidly build applications using Filament and Laravel. By episode two, we will have a nearly fully functioning application.Beyond that, we will dive into the six different Filament packages (Forms, Tables, Notifications, Actions, Infolists, and Widgets) and show how they combine to provide an unparalleled rapid development experience. Along the way, learn additional tips to go fast that can be applied to any Laravel project.
+
+Build Shopify Apps With Laravel
+Welcome to the world of Shopify, where I'll show you, step by step, how to build a Shopify app with Laravel from scratch. We'll cover everything you need to know - from the initial setup, all the way to deployment. I hope you're excited!
+
+Pick a topic. Any topic.
+If you already know what you're looking for, Laracasts is divided into various topics ranging from frameworks to packages to tools.
+
+
+Modern. Current. Expert Teachers.
+In addition to our full-time instructors, we often reach out to top developers in the programming space for their expertise.
+
+
+Produced By Creators
+Don't miss out on our special CreatorSeries courses. Want to learn the ins and outs of tools...from the very people who created them?
+
+Follow in the footsteps of over 100,000 developers before you.
+
+A plan for every personality type.
+Joining takes less than a minute, and, if your peers are correct, is the best decision you'll make all day. If you're still on the fence, we have a plan called “monthly” - and it’s not like the gym. Seriously, you can cancel in five seconds.
+

@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&display=swap');
+
+header {
+    background-color: rgb(20, 31, 49);
+}
+
+header a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+nav {
+    height: 70px;
+}
+
+.home-link {
+    font-family: 'Dancing Script', cursive;
+    display: flex;
+}
+
+.home-link img {
+    width: 60px;
+    margin-right: 10px;
+}
+
+.nav-right i {
+    background-color: #57c4ff;
+    padding: 8px;
+    border-radius: 50%;
+}
+
+header a:hover {
+    color: hsl(201, 100%, 67%);
+}
+
+header .backfill {
+    background-color: #57c4ff;
+    padding: 5px 15px 8px;
+    border-radius: 50rem;
+}
+
+header .nav-right .backfill:hover {
+    background-color: #2842c1;
+}
+
+.banner-content h1 {
+    color: white;
+    font-size: 64px;
+    font-weight: 900;
+    background-color: transparent;
+    text-shadow: -3px -3px 2px black;
+
+}
+
+.banner-content span {
+    background: linear-gradient(to right, #2842c1, #57c4ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.banner {
+    background-color: rgb(20, 31, 49);
+    background-image: url(./images/home-banner-illustration.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    width: 100%;
+    height: 100vh;
+}
+.course-collection{
+    background-color: rgb(20, 31, 49);
+}
+.CC-Head {
+    display: grid;
+    text-align: center;
+    justify-items: center;
+    padding: 10% 0;
+    color: whitesmoke;
+}
+.CC-Head div{
+    width: 80%;
+}
+.CC-Head h3{
+    font-weight: 900;
+    font-size: 35px;
+    margin-bottom: 13px;
+}
